@@ -11,7 +11,7 @@
    header {
    background-color:#ff7f50;
    color:#f5fffa;
-   height:75px;
+   height:100px;
    width:100px:
    }
   
@@ -49,6 +49,8 @@
   background-color:#008080;
   color:#fffafa;
   opacity:1;
+  height:150px;
+  width:880px;
   }
   
   .footer-logo {
@@ -66,6 +68,7 @@
   <header>
    <div class="header-logo">About Us</div>
    <div class="header-list"><ul>
+    <li>Vision</li>
     <li>History</li>
     <li>People Involved</li></ul></div>
   </header>
